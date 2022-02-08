@@ -1,3 +1,4 @@
 import fct_math
 
-print(fct_math.add(4, 56))
+if __name__ == '__main__':
+    print(fct_math.add(4, 56))
