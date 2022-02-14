@@ -1,6 +1,6 @@
 # PI2C Lab
 
-![test workflow](https://github.com/qlurkin/PI2C-test/actions/workflows/test.yml/badge.svg)
+[![Run Tests](https://github.com/qlurkin/PI2C-test/actions/workflows/test.yml/badge.svg)](https://github.com/qlurkin/PI2C-test/actions/workflows/test.yml)
 
 ## Introduction
 
