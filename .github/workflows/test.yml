@@ -27,10 +27,10 @@ jobs:
     - name: Coverage Badge
       uses: tj-actions/coverage-badge-py@v1.8
 
-    name: Commit files
-    run: |
-      git config --local user.email "github-actions[bot]@users.noreply.github.com"
-      git config --local user.name "github-actions[bot]"
-      git add coverage.svg
-      git commit -m "Updated coverage.svg"
-      git push
+    - name: Commit files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add coverage.svg
+        git commit -m "Updated coverage.svg"
+        git push
