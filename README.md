@@ -4,6 +4,6 @@
 
 ## Introduction
 
-This is an example repo for a lab about Git and GitHub.
+This is an example repo for a lab about Git and GitHub!!!
 
 You can find more info about the Markdown syntax [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
